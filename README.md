@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is Łukasz Piasecki
 
 I've been into web app creating in Django, using especially Django Rest Framework and React.js. 
 🔭 Nowadays, I devote my time to developing *Django_React_FoundTracker* application, which I use to track my investments.
