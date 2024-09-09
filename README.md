@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I've been into web app creating in Django, using especially Django Rest Framework and React.js. 
+🔭 Nowadays, I devote my time to developing *Django_React_FoundTracker* application, which I use to track my investments.
+🌱 Additionally, I delve into data analysis and machine learning, which I implement to automate my projects.
+
+
 <!--
 **LukaszPiasecki13/LukaszPiasecki13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
