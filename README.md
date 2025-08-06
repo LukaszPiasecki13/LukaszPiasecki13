@@ -1,11 +1,12 @@
-## Hi there 👋, my name is Łukasz Piasecki, I am a Python Software Engineer
+<h1 align="center">Hi there 👋, my name is Łukasz Piasecki, I am a Python Software Engineer</h1>
 
 # 💫 About Me:
 I primarily focus on automation, and in my free time, I build web applications using Django, with a special emphasis on the Django Rest Framework and React.js. 
-🔭 Nowadays, I devote my time to developing the Django_React_FoundTracker application, which I use to track my investments. 
-🌱 Additionally, I delve into data analysis and machine learning, which I implement to automate my projects.
+- 🔭 Nowadays, I devote my time to developing the Django_React_FoundTracker application, which I use to track my investments. 
+- 🌱 Additionally, I delve into data analysis and machine learning, which I implement to automate my projects.
 
-
+# 🚀 Check out my portfolio
+[coding portfolio!](/https://lukasz-portfolio.vercel.app/)
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukasz-piasecki-894768208) 
 
