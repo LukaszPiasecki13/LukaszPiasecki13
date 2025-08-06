@@ -5,8 +5,7 @@ I primarily focus on automation, and in my free time, I build web applications u
 - 🔭 Nowadays, I devote my time to developing the Django_React_FoundTracker application, which I use to track my investments. 
 - 🌱 Additionally, I delve into data analysis and machine learning, which I implement to automate my projects.
 
-# 🚀 Check out my portfolio
-[coding portfolio!](/https://lukasz-portfolio.vercel.app/)
+Check out my [coding portfolio!](/https://lukasz-portfolio.vercel.app/)
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukasz-piasecki-894768208) 
 
