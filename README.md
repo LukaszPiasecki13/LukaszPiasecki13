@@ -4,6 +4,7 @@
 I primarily focus on automation, and in my free time, I build web applications using Django, with a special emphasis on the Django Rest Framework and React.js. 
 - 🔭 Nowadays, I devote my time to developing the Django_React_FoundTracker application, which I use to track my investments. 
 - 🌱 Additionally, I delve into data analysis and machine learning, which I implement to automate my projects.
+- 📊 I’m the author of **bizradar** — a Python library that provides a Pythonic interface to BiznesRadar.pl financial data (GPW): [https://github.com/<YOUR-USERNAME>/bizradar](https://github.com/LukaszPiasecki13/bizradar)
 
 Check out my [coding portfolio!](https://lukasz-portfolio.vercel.app/)
 ## 🌐 Connect with me:
